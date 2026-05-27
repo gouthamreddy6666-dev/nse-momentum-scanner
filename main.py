@@ -15,8 +15,8 @@ stocks = [
     "ADANIPOWER.NS"
 ]
 
-LOOKBACK_WINDOW = 5
-MINIMUM_HIGHER_CLOSES = 3
+LOOKBACK_WINDOW = 10
+MINIMUM_HIGHER_CLOSES = 6
 
 # =========================
 # SCANNER
